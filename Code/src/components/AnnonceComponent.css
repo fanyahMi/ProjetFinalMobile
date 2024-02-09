@@ -1,0 +1,18 @@
+.image-container {
+    position: relative;
+    display: inline-block;
+    }
+
+.overlay-text {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: x-small;
+    font-weight: bold;
+}
+.overlay-prix{
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: x-small;
+    font-weight: bold;
+}
