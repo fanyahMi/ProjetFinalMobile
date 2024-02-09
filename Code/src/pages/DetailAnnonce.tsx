@@ -6,43 +6,6 @@ import DetailAnnonceComponent from "../components/DetailAnnonceComponent";
 import { useHistory, useParams } from "react-router";
 import { useEffect, useState } from "react";
 import { red } from "@mui/material/colors";
-
-// const annonce:AnnonceModel = { id_annonce: 1 , Nom: "Mercede 123" , Description: "Voiture de transport" , Prix_vente: 12000 , status: 1 , Models: "5210" , Marque: "Mercedes" };
-// const annonce: AnnonceModel = {
-//     id: "1",
-//     annonce_id: "ABC123",
-//     auteur_id: "user123",
-//     acteur: "Vendeur",
-//     lieu: "Paris",
-//     status: 1,
-//     prix_vente: 1452789000,
-//     date_annonce: "2024-02-02T12:00:00.000Z",
-//     detailvoiture: {
-//       matricule: "HOBY1839",
-//       kilometrage: 93,
-//       marque: "Toyota",
-//       categorie: "SUV",
-//       annee: 2022,
-//       carburant: 1, // Assumption: 1 represents a carburant type
-//     },
-//     description: "Bonjour, nouvelle arrivage de voiture",
-//     proprietes: [
-//       {
-//         titre: "Moteur",
-//         description: "V8 Motul",
-//       },
-//       {
-//         titre: "Volant",
-//         description: "A droite",
-//       },
-//     ],
-//     photos: [
-//       {
-//         data: "base_64_image_data",
-//         contentType: "image/png",
-//       },
-//     ],
-//   };
   
 export interface DetailData {
     data: number;
