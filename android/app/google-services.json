@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648240534605",
+    "project_id": "inotifaction",
+    "storage_bucket": "inotifaction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648240534605:android:979dd8e1c23d671a043804",
+        "android_client_info": {
+          "package_name": "com.projetcloud.vaikaokazy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN9jUgIbpmJSLA9G1ifwRtMg_EHLAphgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
